@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\00kwo\source\repos\OpenMP\Lab2-1\main.cpp(96,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\00kwo\source\repos\OpenMP\Lab2-1\main.cpp(101,10): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Lab2-1.vcxproj -> C:\Users\00kwo\source\repos\OpenMP\x64\Debug\Lab2-1.exe

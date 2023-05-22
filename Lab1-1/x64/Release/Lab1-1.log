@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\00kwo\source\repos\OpenMP\Lab1-1\Main.cpp(15,7): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Lab1-1.vcxproj -> C:\Users\00kwo\source\repos\OpenMP\x64\Release\Lab1-1.exe
